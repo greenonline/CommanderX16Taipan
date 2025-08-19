@@ -1,8 +1,8 @@
 # CommanderX16Taipan
-Taipan! for the Commander X16
 
-Massaging the [original BASIC source code](https://taipangame.com/BASIC.txt) from [Taipan!](https://taipangame.com) into something that will run on the Commander X16.
+A Commander X16 port of the classic Apple II game, Taipan!
 
+The Applesoft BASIC code from the book,  [TAIPAN - A historical adventure for the Apple Computer (PDF)][1] by *Art Canfil*, *Karl Albrecht*, and *Jim McClenahan*, linked to from [taipangame.com][2].
 
 ## Related repos
 
@@ -15,3 +15,7 @@ Massaging the [original BASIC source code](https://taipangame.com/BASIC.txt) fro
 ## See also
 
  - [Taipan! for Commander X16](https://gr33nonline.wordpress.com/2025/08/17/taipan-for-commander-x16/)
+
+
+  [1]: https://taipangame.com/pdf/TaipanAHistoricalAdventureForTheAppleComputerAppleIIEdition.pdf
+  [2]: https://taipangame.com/
