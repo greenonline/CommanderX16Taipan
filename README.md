@@ -1,7 +1,7 @@
 # CommanderX16Taipan
 Taipan! for the Commander X16
 
-
+Massaging the [original BASIC source code](https://taipangame.com/BASIC.txt) from [Taipan!](https://taipangame.com) into something that will run on the Commander X16.
 
 
 ## Related repos
