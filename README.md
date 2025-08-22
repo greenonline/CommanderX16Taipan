@@ -4,6 +4,12 @@ A Commander X16 port of the classic Apple II game, Taipan!
 
 The Applesoft BASIC code from the book,  [TAIPAN - A historical adventure for the Apple Computer (PDF)][1] by *Art Canfil*, *Karl Albrecht*, and *Jim McClenahan*, linked to from [taipangame.com][2].
 
+## Note on BASIC source
+
+This code was developed using the emulator [`x16emu`](https://github.com/x16community/x16-emulator), on a macOS host. The code would be pasted in. 
+
+A (very useful) side effect of pasting the BASIC code into the emulator is that any duplicate lines are ignored and only the last version of any duplicated lines, in the BASIC source code, is the actual line that is accepted. As a result, there *may* be some duplicated lines left over in the source code. If any duplicated lines are encountered, please use only the last version of that line number.
+
 ## Related repos
 
  - [!!!NOT!!! TRS80Taipan](https://github.com/greenonline/TRS80Taipan)
