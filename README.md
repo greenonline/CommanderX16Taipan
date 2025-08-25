@@ -8,7 +8,7 @@ The Applesoft BASIC code from the book,  [TAIPAN - A historical adventure for th
 
 ### Copy and paste
 
-This code was developed using the emulator [`x16emu`](https://github.com/x16community/x16-emulator), Release 48 Cadmium, on a macOS (Catalina) host. The code would be pasted into the emulator. 
+This code was developed using the emulator [`x16emu`](https://github.com/x16community/x16-emulator), [Release 48 ("Cadmium")](https://github.com/X16Community/x16-emulator/releases/tag/r48), on a macOS (Catalina) host. The code would be pasted into the emulator. 
 
 A (very useful) side effect of pasting the BASIC code into the emulator is that any duplicate lines are ignored, or rather, overwritten. Only the last version of any duplicated lines, in the BASIC source code, is the actual line that is accepted. As a result, there *may* be some duplicated lines left over in the source code. If any duplicated lines are encountered, and you are *manually* entering the code, then save yourself some typing, please use only the last version of that line number.
 
